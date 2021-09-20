@@ -15,4 +15,4 @@ recolectarDatos("Juan","Marte",15, 1.60, function(edad){
     }else{
         console.log("debe aprender a usar la fuerza")
     }
-})
+})  
